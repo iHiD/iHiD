@@ -14,6 +14,6 @@ From 2016-2019 I was a Non-exec Director at the wonderful [Beatfreeks](https://b
 
 I spend my time building organisations and businesses that help others. My core skillset involves strategy, leadership, community building, and software development. I have a degree in Artificial Intelligence and have co-developed a [deep-learning algorithm used in Interventional Cardiology](https://patentscope2.wipo.int/search/en/detail.jsf?docId=WO2019122919&tab=PCTBIBLIO). 
 
-Day-to-day, I'm normally coding, leading, strategising or thinking - whichever is the most important at any given time
+Day-to-day, I'm normally coding, leading, strategising or thinking - whichever is the most important at any given time!
 
 Away from work I read, travel, climb, and get nerdy about coffee.
