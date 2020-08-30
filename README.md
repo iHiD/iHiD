@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hello 👋 I'm Jeremy _(he/him)_ - a social entrepeneur and software developer (👨‍💻). Online I go by [iHiD](https://twitter.com/iHiD).
+I'm Jeremy _(he/him)_ - a social entrepeneur and software developer (👨‍💻). Online I go by [iHiD](https://twitter.com/iHiD).
 
 You probably know me as the **co-founder of [Exercism](https://exercism.io)** - an online platform that helps people upskill their programming skills through practice and mentoring. We're a open-source organisation with **over 200 GitHub repositories**, thousands of contributors, and a friendly, inclusive community. We've had over 500k people use us and millions of submssions. We're always looking for new people to help - [email me](hello@exercism.io) if you'd like to get involved 🙂
 
