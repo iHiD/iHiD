@@ -6,7 +6,7 @@ You probably know me as the **co-founder of [Exercism](https://exercism.org)** -
 
 You might also know me as the **co-founder of [Kaido](https://kaido.org)** - a health and wellbeing startup helping companies take better care of their employees. We work with companies who are tiny (4 people), huge multinationals (e.g. HSBC and KPMG), charities (e.g. Refugee Action) and with the NHS - the UK's public health service. Try Kaido for free and see how we can help your workplace be a happier and healthier place! 🙂
 
-I also run [Thalamus](https://thalamus.ai). I previously co-founded Wondr Medical _(2016-2019)_ and Meducation _(2008-2016)_. I've also been a founding member of [Flaunt](https://flauntreport.com) and [GetStoic](https://getstoic.co), and ran two software consultancies (_Meridian Innovations_ and _Pure Intellect_). 
+I also run [Thalamus](https://thalamus.ai). I previously co-founded _Wondr Medical_ _(2016-2019)_ and _Meducation_ _(2008-2016)_. I've was also a founding member of _Flaunt_ and _GetStoic_, and ran two software consultancies (_Meridian Innovations_ and _Pure Intellect_). 
 
 From 2016-2019 I was a Non-exec Director at the wonderful [Beatfreeks](https://beatfreeks.com/).
 
